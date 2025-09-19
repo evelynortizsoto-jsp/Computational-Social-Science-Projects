@@ -1,0 +1,8 @@
+git clone
+ls
+ls - l 
+mkdir
+git add
+git commit 
+git push
+pwd
